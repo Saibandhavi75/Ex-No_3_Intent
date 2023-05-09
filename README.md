@@ -234,7 +234,9 @@ tools:context="com.example.android.intents.SecondActivity">
 
 ## Output:
 ![output](https://github.com/Saibandhavi75/Ex-No_3_Intent/blob/main/31.png?raw=true)
+## Explicit Intent
 ![output](https://github.com/Saibandhavi75/Ex-No_3_Intent/blob/main/32.png?raw=true)
+## Implicit Intent
 ![output](https://github.com/Saibandhavi75/Ex-No_3_Intent/blob/main/33.png?raw=true)
 
 
