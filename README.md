@@ -233,9 +233,9 @@ tools:context="com.example.android.intents.SecondActivity">
 ```
 
 ## Output:
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Ex-No_3_Intent/blob/main/31.png?raw=true)
+![output](https://github.com/Saibandhavi75/Ex-No_3_Intent/blob/main/32.png?raw=true)
+![output](https://github.com/Saibandhavi75/Ex-No_3_Intent/blob/main/33.png?raw=true)
 
 
 ## Result:
